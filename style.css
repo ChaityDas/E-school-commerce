@@ -1,0 +1,82 @@
+.container{
+    margin-bottom: 100px;
+}
+  
+.get-started-button{
+    
+    background: #21B573;
+    border-radius: 30px;
+    padding: 9px 25px;
+}
+.color-bg{
+    background-color: #F0FFF0;
+    width: 1400px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+
+
+}
+.row{
+    margin-left: auto;
+    text-align: center;
+}
+.card-block{
+    height: 85px;
+    width: 66px;
+}
+.container-fluid img{
+    height: 270px;
+    width: 270px;
+}
+.buy-now-button{
+    background-color: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 6px 25px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+}
+#fix{
+    text-align: center;
+}
+.container-fluid{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    background: #FFFFFF;
+    border-radius: 10px;
+    left: 135px;
+    top: 618px;
+}
+.testimonial img{
+    width: 120px;
+    height: 120px;
+
+}
+.testimonial{
+    text-align: center;
+
+}
+.resize{
+    width: 580px;
+    height: 90px;
+    left: 525px;
+    top: 1796px;
+}
+.footer{
+    width: 1440px;
+    height: 369px;
+    left: 0px;
+    top: 2013px;
+
+    background: #282531;
+}
+.row{
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: #282531;
+    color: white;
+}
